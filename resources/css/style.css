@@ -2,3 +2,15 @@
 .logo {
   height: 60px;
 }
+
+.colmar {
+  font-family: 'Crimson Text', serif;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.academy {
+  font-family: 'Crimson Text', serif;
+  font-weight: 400;
+  text-transform: capitalize;
+}
