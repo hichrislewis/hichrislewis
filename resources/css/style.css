@@ -1,16 +1,39 @@
+html {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+
 /* Header */
+.header {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #171717;
+}
+
+.logo-name {
+  display: flex;
+  align-items: center;
+  margin-left: 1.5rem;
+}
+
 .logo {
-  height: 60px;
+  height: 2rem;
 }
 
-.colmar {
-  font-family: 'Crimson Text', serif;
-  font-weight: 700;
-  text-transform: capitalize;
+.name {
+  text-transform: uppercase;
+  margin-left: .5rem;
 }
 
-.academy {
-  font-family: 'Crimson Text', serif;
+.name span {
+  font-size: 2rem;
+}
+
+.first-name {
+  font-weight: 900;
+}
+
+.last-name {
   font-weight: 400;
-  text-transform: capitalize;
 }
