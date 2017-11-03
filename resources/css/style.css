@@ -39,6 +39,14 @@ html {
 }
 
 /*Projects*/
+.projects {
+
+}
+
+.project {
+  padding: 50px;  
+}
+
 .project-image {
   max-width: 300px;
 }
