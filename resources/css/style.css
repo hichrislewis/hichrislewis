@@ -37,3 +37,8 @@ html {
 .last-name {
   font-weight: 400;
 }
+
+/*Projects*/
+.project-image {
+  max-width: 300px;
+}
